@@ -1,0 +1,11 @@
+{
+    "loginURL": "https://ws.termaco.com.br/api/login",
+    "apiClienteURL": "https://ws.termaco.com.br/api/apiTracking",
+    "clientes": [
+        {
+            "nome": "Leite Sol",
+            "user": "65979973000240",
+            "pass": "43725"
+        }
+    ]
+}

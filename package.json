@@ -1,0 +1,28 @@
+{
+  "name": "client_api",
+  "version": "1.0.0",
+  "description": "Cliente API Loads",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jurandir/Client_API.git"
+  },
+  "author": "Jurandir Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jurandir/Client_API/issues"
+  },
+  "homepage": "https://github.com/Jurandir/Client_API#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "moment": "^2.29.1"
+  }
+}
